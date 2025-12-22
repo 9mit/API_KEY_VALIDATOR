@@ -2,7 +2,8 @@
 
 **Secure API Validator** is a secure, client-side React application designed to help developers explore API capabilities for major LLM providers (OpenAI, Anthropic, Gemini, Groq) without risking key exposure.
 
-![Secure API Validator](/screenshot.png) <!-- Placeholder for screenshot if user adds one, or I can remove it -->
+<img width="1507" height="966" alt="image" src="https://github.com/user-attachments/assets/fcbb76ae-b6bf-465f-ad10-7a0c6dc9ee30" />
+
 
 ## 🔒 Security Guarantee
 - **100% Client-Side**: This application runs entirely in your browser.
